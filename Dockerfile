@@ -1,4 +1,4 @@
-FROM %%BASE_IMAGE%%
+FROM alpine:3.6
 
 ENV LANG C.UTF-8
 
